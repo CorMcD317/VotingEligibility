@@ -5,4 +5,4 @@ if age >= 18:
 else:
     print("Not Eligible")
 
-# I don't understand the bool notes very well. So I choose to use if statements
+# I don't understand the bool notes very well. So I choose to use if statements.
